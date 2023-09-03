@@ -1,0 +1,23 @@
+body{
+    background:rgb(240,240,240);
+    color:#1b1b1b;
+}
+h1{
+    color:cadetblue;
+}
+main #proyecto article:nth-child(2){
+    background:url("../img/pancarta1.jpg");
+} 
+main #proyecto article:nth-child(3){
+    background:url("../img/pancarta2.jpg");
+} 
+main #proyecto article:nth-child(4){
+    background:url("../img/pancarta3.jpg");
+} 
+main #proyecto article:nth-child(5){
+    background:url("../img/pancarta4.jpg");
+} 
+header,main,footer{
+    width:1200px;
+    margin:auto;
+}

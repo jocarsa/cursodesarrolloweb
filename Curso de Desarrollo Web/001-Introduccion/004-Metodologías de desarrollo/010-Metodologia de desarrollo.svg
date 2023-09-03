@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8802"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="010-Metodologia de desarrollo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview8804"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.5625561"
+     inkscape:cx="581.73911"
+     inkscape:cy="394.86582"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs8799">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect11942"
+       width="93.391304"
+       height="23.946486"
+       x="45.498329"
+       y="52.10537"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="47.625229"
+       y="60.112019"
+       id="text11946"><tspan
+         sodipodi:role="line"
+         id="tspan11944"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="47.625229"
+         y="60.112019">css</tspan></text>
+    <rect
+       style="fill:#000080;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect9286"
+       width="93.391304"
+       height="23.946486"
+       x="45.498329"
+       y="66.32885"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="47.625229"
+       y="74.335503"
+       id="text9705"><tspan
+         sodipodi:role="line"
+         id="tspan9703"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="47.625229"
+         y="74.335503">html</tspan></text>
+    <rect
+       style="fill:#008000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect12684"
+       width="93.391304"
+       height="23.946486"
+       x="45.498329"
+       y="80.936211"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="47.625229"
+       y="88.942863"
+       id="text12688"><tspan
+         sodipodi:role="line"
+         id="tspan12686"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="47.625229"
+         y="88.942863">javascript</tspan></text>
+    <rect
+       style="fill:#800000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect13429"
+       width="93.391304"
+       height="23.946486"
+       x="45.498329"
+       y="96.006332"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="47.625229"
+       y="104.01299"
+       id="text13433"><tspan
+         sodipodi:role="line"
+         id="tspan13431"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="47.625229"
+         y="104.01299">PHP</tspan></text>
+    <rect
+       style="fill:#808000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect14177"
+       width="93.391304"
+       height="23.946486"
+       x="45.498329"
+       y="126.19533"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="47.625229"
+       y="134.20198"
+       id="text14181"><tspan
+         sodipodi:role="line"
+         id="tspan14179"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="47.625229"
+         y="134.20198">MySQL</tspan></text>
+    <rect
+       style="fill:#008080;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16380"
+       width="93.391304"
+       height="23.946486"
+       x="161.15988"
+       y="52.826683"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="163.28677"
+       y="60.833332"
+       id="text16384"><tspan
+         sodipodi:role="line"
+         id="tspan16382"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="163.28677"
+         y="60.833332">css</tspan></text>
+    <rect
+       style="fill:#000080;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16386"
+       width="93.391304"
+       height="23.946486"
+       x="161.15988"
+       y="67.050171"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="163.28677"
+       y="75.056824"
+       id="text16390"><tspan
+         sodipodi:role="line"
+         id="tspan16388"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="163.28677"
+         y="75.056824">html</tspan></text>
+    <rect
+       style="fill:#008000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16392"
+       width="93.391304"
+       height="23.946486"
+       x="161.15988"
+       y="81.657532"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="163.28677"
+       y="89.664185"
+       id="text16396"><tspan
+         sodipodi:role="line"
+         id="tspan16394"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="163.28677"
+         y="89.664185">javascript</tspan></text>
+    <rect
+       style="fill:#800000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16398"
+       width="93.391304"
+       height="23.946486"
+       x="161.15988"
+       y="119.95574"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="163.28677"
+       y="127.96239"
+       id="text16402"><tspan
+         sodipodi:role="line"
+         id="tspan16400"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="163.28677"
+         y="127.96239">PHP</tspan></text>
+    <rect
+       style="fill:#808000;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16404"
+       width="93.391304"
+       height="23.946486"
+       x="161.15988"
+       y="133.50192"
+       ry="4.2912879" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:7.85811px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.530782;stroke-linecap:round"
+       x="163.28677"
+       y="141.50858"
+       id="text16408"><tspan
+         sodipodi:role="line"
+         id="tspan16406"
+         style="fill:#ffffff;stroke-width:0.530781"
+         x="163.28677"
+         y="141.50858">MySQL</tspan></text>
+    <rect
+       style="fill:#800080;stroke:none;stroke-width:0.834001;stroke-linecap:round"
+       id="rect16410"
+       width="48.491642"
+       height="7.6628766"
+       x="182.59198"
+       y="108.71706"
+       ry="3.8314383" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.26926px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000080;stroke:none;stroke-width:0.423462;stroke-linecap:round"
+       x="195.1069"
+       y="114.59605"
+       id="text16414"><tspan
+         sodipodi:role="line"
+         id="tspan16412"
+         style="fill:#ffffff;stroke-width:0.423461"
+         x="195.1069"
+         y="114.59605">json/xml</tspan></text>
+    <path
+       style="fill:#800080;stroke:#000000;stroke-width:0.834;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="m 189.89566,105.48429 v 14.48762"
+       id="path16572" />
+    <path
+       style="fill:#800080;stroke:#000000;stroke-width:0.834;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 223.54047,122.51651 V 108.02889"
+       id="path16604" />
+  </g>
+</svg>

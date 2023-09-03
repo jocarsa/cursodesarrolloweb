@@ -1,0 +1,13 @@
+main nav,main #principal,main aside{
+    display:inline-block;
+    vertical-align: top;
+}
+main nav{
+    width:25%;
+}
+main #principal{
+    width:50%;
+}
+main aside{
+    width:24%;
+}

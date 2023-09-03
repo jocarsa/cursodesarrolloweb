@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg6277"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="004-Estructura de la red cliente servidor.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6279"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.104894"
+     inkscape:cx="540.32331"
+     inkscape:cy="419.94978"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs6274" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#008080;stroke-width:0.134;stroke-linecap:round"
+       id="rect6398"
+       width="102.01204"
+       height="96.983284"
+       x="100.09633"
+       y="61.781944"
+       ry="3.0939612" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:0.0668638;stroke-linecap:round"
+       x="101.75362"
+       y="68.197227"
+       id="text6506"><tspan
+         sodipodi:role="line"
+         id="tspan6504"
+         style="fill:#ffffff;stroke-width:0.0668638"
+         x="101.75362"
+         y="68.197227">sistema informático </tspan></text>
+    <rect
+       style="fill:#808000;stroke-width:0.134;stroke-linecap:round"
+       id="rect6558"
+       width="95.307037"
+       height="83.21405"
+       x="103.20938"
+       y="72.078934"
+       ry="3.0939612" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:0.0668638;stroke-linecap:round"
+       x="105.70479"
+       y="78.973145"
+       id="text6562"><tspan
+         sodipodi:role="line"
+         id="tspan6560"
+         style="fill:#ffffff;stroke-width:0.0668638"
+         x="105.70479"
+         y="78.973145">sistema operativo</tspan></text>
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect6616"
+       width="58.070244"
+       height="20.713711"
+       x="105.36455"
+       y="83.932449"
+       ry="3.0939612" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:0.0668638;stroke-linecap:round"
+       x="107.62051"
+       y="90.227997"
+       id="text6620"><tspan
+         sodipodi:role="line"
+         id="tspan6618"
+         style="fill:#ffffff;stroke-width:0.0668638"
+         x="107.62051"
+         y="90.227997">navegador web</tspan></text>
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect6622"
+       width="28.13714"
+       height="20.713715"
+       x="166.18864"
+       y="83.932449"
+       ry="3.0939612" />
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect6624"
+       width="58.070244"
+       height="20.713711"
+       x="105.36455"
+       y="106.80135"
+       ry="3.0939612" />
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect6626"
+       width="28.13714"
+       height="20.713715"
+       x="166.18864"
+       y="106.80135"
+       ry="3.0939612" />
+    <rect
+       style="fill:#ffffff;stroke-width:0.134;stroke-linecap:round"
+       id="rect6628"
+       width="47.054852"
+       height="5.86689"
+       x="111.59067"
+       y="95.546494"
+       ry="2.933445" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;stroke-width:0.0668638;stroke-linecap:round"
+       x="113.96632"
+       y="100.28552"
+       id="text6632"><tspan
+         sodipodi:role="line"
+         id="tspan6630"
+         style="fill:#000000;stroke-width:0.0668638"
+         x="113.96632"
+         y="100.28552">url</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.71046px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#000000;stroke:none;stroke-width:0.453263;stroke-linecap:round;stroke-dasharray:none;stroke-opacity:1"
+       x="102.24162"
+       y="59.497169"
+       id="text7069"><tspan
+         sodipodi:role="line"
+         id="tspan7067"
+         style="stroke:none;stroke-width:0.453262"
+         x="102.24162"
+         y="59.497169">cliente</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:0.0668638;stroke-linecap:round"
+       x="107.62051"
+       y="112.85743"
+       id="text8032"><tspan
+         sodipodi:role="line"
+         id="tspan8030"
+         style="fill:#ffffff;stroke-width:0.0668638"
+         x="107.62051"
+         y="112.85743">servidor web</tspan></text>
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect8034"
+       width="58.070244"
+       height="20.713711"
+       x="105.36455"
+       y="130.14919"
+       ry="3.0939612" />
+    <rect
+       style="fill:#800000;stroke-width:0.134;stroke-linecap:round"
+       id="rect8036"
+       width="28.13714"
+       height="20.713715"
+       x="166.18864"
+       y="130.14919"
+       ry="3.0939612" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:6.16105px;font-family:Calibri;-inkscape-font-specification:'Calibri Bold';fill:#008080;stroke-width:0.0668638;stroke-linecap:round"
+       x="107.62051"
+       y="136.20526"
+       id="text8040"><tspan
+         sodipodi:role="line"
+         id="tspan8038"
+         style="fill:#ffffff;stroke-width:0.0668638"
+         x="107.62051"
+         y="136.20526">servidor bbdd</tspan></text>
+  </g>
+</svg>

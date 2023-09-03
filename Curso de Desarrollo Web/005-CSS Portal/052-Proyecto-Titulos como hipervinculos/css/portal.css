@@ -1,0 +1,67 @@
+main nav,main #principal,main aside{
+    display:inline-block;
+    vertical-align: top;
+}
+main nav{
+    width:25%;
+}
+main #principal{
+    width:50%;
+}
+main aside{
+    width:24%;
+}
+main #principal article{
+    border-bottom:1px solid rgb(220,220,220);
+    clear:both;
+    padding-top:20px;
+}
+.izquierda,.derecha{
+    display:inline-block;
+    vertical-align: top;
+}
+main #principal article .izquierda{
+    width:20%;
+}
+main #principal article .derecha{
+    width:79%;
+}
+main #principal article .categorias p{
+    display:inline-block;
+    padding:5px;
+    background:rgb(220,220,220);
+    border-radius:5px;
+}
+main #principal article h4,main #principal article p{
+    padding:5px;
+    margin:5px;
+}
+main #principal article h4 a{
+    color:inherit;
+    text-decoration:none;
+}
+/* Maquetación caja derecha */
+
+main aside article{
+    border:1px solid rgba(220,220,220);
+    padding:20px;
+    box-sizing: border-box;
+    margin-top:20px;
+    border-radius:5px;
+    text-align:justify;
+}
+main aside article h4{
+    padding:0px;
+    margin:0px;
+}
+
+
+
+
+
+
+
+
+
+
+

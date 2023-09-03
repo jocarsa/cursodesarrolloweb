@@ -1,0 +1,88 @@
+@font-face {
+  font-family: titulares;
+  src: url(fuentes/titulares.ttf);
+}
+body{
+    background:rgb(240,240,240);
+    color:#1b1b1b;
+    font-family: sans-serif;
+}
+h1{
+    color:cadetblue;
+}
+main #proyecto article:nth-child(2){
+    background:url("../img/pancarta1.jpg");
+    background-size:cover;
+    background-position:center center;
+} 
+main #proyecto article:nth-child(3){
+    background:url("../img/pancarta2.jpg");
+    background-size:cover;
+    background-position:center center;
+} 
+main #proyecto article:nth-child(4){
+    background:url("../img/pancarta3.jpg");
+    background-size:cover;
+    background-position:center center;
+} 
+main #proyecto article:nth-child(5){
+    background:url("../img/pancarta4.jpg");
+    background-size:cover;
+    background-position:center center;
+} 
+header,main,footer{
+    width:1200px;
+    margin:auto;
+    padding-top:30px;
+    padding-bottom:30px;
+}
+header>img{
+    width:64px;
+    display:inline-block;
+    float:left;
+    margin-right:10px;
+}
+header nav img{
+    width:24px;
+    position:relative;
+    top:5px;
+}
+h1,h2{
+    padding:0px;
+    margin:0px;
+    font-family:titulares;
+    font-weight:normal;
+}
+header nav ul{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+    text-align:right;
+}
+header nav ul li{
+    display:inline-block;
+    line-height:24px;
+    padding:10px;
+
+}
+header nav ul li a{
+    color:inherit;
+    text-decoration:none;
+    text-transform:uppercase;
+    font-weight: bold;
+}
+nav{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+h1{
+    padding-top:10px;
+}
+
+main #proyecto article{
+    height:400px;
+    
+}
+
+
+

@@ -1,0 +1,11 @@
+:root {
+    --principal:crimson;
+    --secundario:chocolate;
+}
+body{
+    background:rgb(240,240,240);
+    color:#1b1b1b;
+}
+h1{
+    color:var(--principal);
+}
