@@ -1,0 +1,42 @@
+body,html{
+    background:rgb(220,220,220);
+    font-family: sans-serif;
+    height:100%;
+}
+form{
+    position:relative;
+    width:300px;
+    height:400px;
+    margin:auto;
+    text-align:center;
+    top:50%;
+    margin-top:-200px;
+}
+label{
+    display:block;
+}
+label,input{
+    width:100%;
+    margin:auto;
+    
+    
+    
+}
+label{
+    margin-top:10px;
+}
+input{
+    padding-top:10px;
+    padding-bottom:10px;
+    margin-bottom:10px;
+    padding-left:5px;
+    padding-right:5px;
+    box-sizing: border-box;
+   
+}
+img{
+    width:128px;
+}
+input[type="submit"]{
+    margin-top:20px;
+}

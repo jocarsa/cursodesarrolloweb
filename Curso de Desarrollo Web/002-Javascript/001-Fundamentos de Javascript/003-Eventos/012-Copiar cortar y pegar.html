@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo Javascript</title>
+        <style>
+            html,body{height:100%;}
+        </style>
+    </head>
+    <body id="cuerpo">
+        <textarea id="origen"></textarea>
+        <textarea id="destino"></textarea>
+        <script>
+            document.getElementById("origen").oncopy = function(){
+                console.log("Has copiado")
+            }
+            document.getElementById("origen").oncut = function(){
+                console.log("Has cortado")
+            }
+            document.getElementById("destino").onpaste = function(){
+                console.log("Has pegado")
+            }
+        </script>
+    </body>
+</html>

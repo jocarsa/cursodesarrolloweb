@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo Javascript</title>
+        <style>
+            html,body{height:100%;}
+        </style>
+    </head>
+    <body id="cuerpo">
+        <input type="text" id="campo">
+        <script>
+            document.getElementById("cuerpo").onscroll = function(){
+                console.log("Has hecho scroll")
+            }
+            document.getElementById("cuerpo").onmousewheel = function(){
+                console.log("Has hecho click en el boton del medio")
+            }
+        </script>
+    </body>
+</html>

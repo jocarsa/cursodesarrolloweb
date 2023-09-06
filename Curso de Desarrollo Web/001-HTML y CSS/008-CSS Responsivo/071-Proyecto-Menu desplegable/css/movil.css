@@ -1,0 +1,51 @@
+@media screen and (max-width: 1200px) {
+    header,footer,main{
+        width:100%;
+    }
+    main #valores img,main #valores article:nth-child(odd) img{
+        width:100%;
+    }
+    #proyecto{
+        display:none;
+    }
+    main #quienessomos article{
+        width:100%;
+    }
+    main #blog article{
+         width:100%;
+    }
+    main form,main iframe{
+        width:100%;
+    }
+    footer article{
+        width:100%;
+    }
+    header{
+        text-align:center;
+    }
+    header img{
+        float:none;
+    }
+    header nav ul{
+        text-align:center;
+    }
+    header nav ul li{
+        display:block;
+    }
+    header nav{
+        height:30px;
+        overflow:hidden;
+        transition:all 1s;
+        outline:none;
+    }
+    header nav:focus{
+        height:500px;
+    }
+    
+    header nav ul li:first-child{
+        display:block !important;
+    }
+}
+header nav ul li:first-child{
+    display:none;
+}

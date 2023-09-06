@@ -1,0 +1,43 @@
+#principal{
+    text-align:justify;
+}
+.puntuacion{
+    float:left;
+    width:20%;
+    text-align:center;
+}
+.puntuacion div{
+    margin:auto;
+}
+#pregunta,#respuestas,#turespuesta{
+    clear:both;
+}
+#contenido{
+    float:right;
+    width:75%;
+}
+time{
+    text-align:right;
+    width:50%;
+    float:right;
+}
+.autor{
+    width:50%;
+    float:right;
+    text-align:right;
+}
+#respuestas article p{
+    float:right;
+    width:75%;
+}
+.votomas,.votomenos,.puntos{
+    width:32px;
+    height:32px;
+    line-height:32px;
+}
+.votomas,.votomenos{
+    border:1px solid grey;
+    border-radius:32px;
+    text-align:center;
+    font-size:20px;
+}

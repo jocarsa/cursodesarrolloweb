@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo Javascript</title>
+    </head>
+    <body id="cuerpo">
+        <input type="number" id="primeroperando">
+        <input type="number" id="segundooperando">
+        <button id="resuelve">Resolver</button>
+        <div id="resultado"></div>
+        <script>
+            document.getElementById("resuelve").onclick = function(){
+                let operando1 = parseFloat(document.getElementById("primeroperando").value);
+                let operando2 = parseFloat(document.getElementById("segundooperando").value);
+                
+                let resultado = operando1 + operando2;
+                document.getElementById("resultado").innerHTML = resultado
+            }
+        </script>
+    </body>
+</html>

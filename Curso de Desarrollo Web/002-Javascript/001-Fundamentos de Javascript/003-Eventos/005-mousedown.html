@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="es">
+    <head>
+        <title>Aprendiendo Javascript</title>
+        <style>
+            
+        </style>
+    </head>
+    <body>
+        <button id="boton">Púlsame</button>
+        <script>
+            document.getElementById("boton").onmousedown = function(){
+                console.log("Has hecho click en el elemento")
+            }
+            
+            document.getElementById("boton").onmouseup = function(){
+                console.log("Has levantado el click del elemento")
+            }
+        </script>
+    </body>
+</html>
