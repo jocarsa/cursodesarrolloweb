@@ -1,0 +1,2 @@
+CREATE DATABASE cursodesarrolloweb 
+DROP DATABASE cursodesarrollooweb

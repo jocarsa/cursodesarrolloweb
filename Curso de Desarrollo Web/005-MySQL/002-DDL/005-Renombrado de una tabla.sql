@@ -1,0 +1,1 @@
+RENAME TABLE `cursodesarrolloweb`.`usuarios` TO `cursodesarrolloweb`.`usuariosaplicacion`;
